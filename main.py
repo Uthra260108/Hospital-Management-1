@@ -1,13 +1,17 @@
+#HOSPITAL MANAGEMENT SYSTEM
 import csv
 
 import time
 
 import sys
 
+
 import os
+
 
 # File paths
 users_file = 'users.csv'
+
 
 patients_file = 'patients.csv'
 
