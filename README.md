@@ -53,8 +53,9 @@ The system uses CSV files to store information such as:
 
 The project demonstrates how **Python programming, functions, file handling, and CSV storage** can be combined to build a simple hospital management application.
 
-## 👩‍💻 Author
 
+
+##BY
 **Uthra R**
 B.E. Computer Technology Student
 Anna University – MIT
