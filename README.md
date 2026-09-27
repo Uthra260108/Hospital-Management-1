@@ -2,6 +2,7 @@
 
 A **Python-based Hospital Management System** designed to manage patients, doctors, workers, appointments, prescriptions, admissions, billing, and employee schedules.
 
+
 ## 📌 Features
 
 * 🔐 User Login and Account Creation
