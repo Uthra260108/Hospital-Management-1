@@ -31,7 +31,11 @@ A **Python-based Hospital Management System** designed to manage patients, docto
   
 * 📂 File and Directory Management
 
+
+
 ## 🛠️ Technologies Used
+
+
 
 * **Python**
 * **CSV Files**
