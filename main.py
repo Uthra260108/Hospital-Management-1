@@ -1,34 +1,18 @@
 #HOSPITAL MANAGEMENT SYSTEM
 import csv
-
 import time
-
 import sys
-
-
 import os
-
-
 # File paths
 users_file = 'users.csv'
-
-
 patients_file = 'patients.csv'
-
 workers_file = 'workers.csv'
-
 doctors_file = 'doctors.csv'
-
 appointments_file = 'appointments.csv'
-
 bills_file = 'bills.csv'
-
 prescriptions_file = 'prescriptions.csv'
-
 schedules_file = 'schedules.csv'
-
 admissions_file = 'admissions.csv'
-
 # Save new user to file
 def save_user(username, password):
     with open(users_file, 'a', newline='') as file:
