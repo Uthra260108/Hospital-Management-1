@@ -6,7 +6,6 @@ A **Python-based Hospital Management System** designed to manage patients, docto
 ## 📌 Features
 
 
-
 * 🔐 User Login and Account Creation
   
 * 👨‍⚕️ Doctor Management
