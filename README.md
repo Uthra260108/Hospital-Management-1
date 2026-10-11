@@ -32,8 +32,7 @@ A **Python-based Hospital Management System** designed to manage patients, docto
 
 
 
-## 🛠️ Technologies Used
-
+## 🛠️ Technologies Used!
 
 
 * **Python**
