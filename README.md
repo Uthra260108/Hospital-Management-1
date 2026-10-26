@@ -7,29 +7,17 @@ A **Python-based Hospital Management System** designed to manage patients, docto
 
 
 * 🔐 User Login and Account Creation
-  
 * 👨‍⚕️ Doctor Management
-  
 * 🧑‍⚕️ Patient Management
-  
 * 👷 Worker Management
-  
 * 📅 Appointment Scheduling
-  
 * 💊 Prescription Management
-  
 * 🏨 Patient Admission Management
-  
 * 💰 Bill Generation and Bill History
-  
-* 🕐 Employee Schedule Management
-  
+* 🕐 Employee Schedule Management 
 * 📊 Hospital Summary Statistics
-  
 * 📁 CSV-based Data Storage
-  
 * 📂 File and Directory Management
-
 
 
 ## 🛠️ Technologies Used!
